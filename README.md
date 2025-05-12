@@ -22,7 +22,7 @@ A simple tool to download videos or audio from [YouTube](https://www.youtube.com
    
 3. Click on "download video" to start the download of the video.
 
-4. If you want to download only the audio then just paste the video URL and click on "download audio". The downloads will be saved in "Downloads".
+4. If you want to download only the audio then just paste the video URL and click on "download audio". The downloads will be saved in "Downloads" folder.
 
 
 
