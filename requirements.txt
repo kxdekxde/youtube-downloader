@@ -1,0 +1,11 @@
+ffmpeg==1.4
+PyQt6==6.8.1
+PyQt6-Qt6==6.8.2
+PyQt6-WebEngine==6.8.0
+PyQt6-WebEngine-Qt6==6.8.2
+PyQt6_sip==13.10.0
+requests==2.32.3
+requests-toolbelt==1.0.0
+tqdm==4.66.5
+yt-dlp==2025.2.19
+
